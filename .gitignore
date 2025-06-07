@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Cache do mypy
+.mypy_cache/
+
+# Pre-commit
+.pre-commit-config.yaml
